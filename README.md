@@ -3,7 +3,7 @@
 Curated list of awesome books and authors on libertarianism, ancap and austrian school of economics.
 
 ## Introductory Books
-| Name | Author | N Pages | Goodreads Rating | Year Published |  
+| Name | Author | #Pages | Goodreads Rating | Year Published |  
 |------|--------|---------|------------------|----------------|
 |[Economic Policy, Thoughts for Today and Tomorrow](https://mises.org/library/economic-policy-thoughts-today-and-tomorrow)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|107|[4.4](https://www.goodreads.com/book/show/1822167.Economic_Policy)|1979|
 |[The Law](https://mises.org/library/law)|[Frédéric Bastiat](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat)|61|[4.4](https://www.goodreads.com/book/show/1609224.The_Law)|1849|
@@ -11,7 +11,7 @@ Curated list of awesome books and authors on libertarianism, ancap and austrian 
 |[The Fountainhead](https://en.wikipedia.org/wiki/The_Fountainhead)|[Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)|753|[3.9](https://www.goodreads.com/book/show/2122.The_Fountainhead)|1943|
 
 ## Awesome Books
-| Name | Author | N Pages | Goodreads Rating | Year Published |  
+| Name | Author | #Pages | Goodreads Rating | Year Published |  
 |------|--------|---------|------------------|----------------|
 |[Human Action](https://mises.org/library/human-action-0)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|881|[4.3](https://www.goodreads.com/book/show/81912.Human_Action)|1949|
 |[For a New Liberty](https://mises.org/library/new-liberty-libertarian-manifesto)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|327|[4.3](https://www.goodreads.com/book/show/1268994.For_a_New_Liberty)|1973|
