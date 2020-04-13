@@ -2,7 +2,7 @@
 
 Curated list of awesome books and authors on libertarianism, ancap and austrian school of economics.
 
-#Introductory Books
+## Introductory Books
 | Name | Author | N Pages | Goodreads Rating | Year Published |  
 |------|--------|---------|------------------|----------------|
 |[Economic Policy, Thoughts for Today and Tomorrow](https://mises.org/library/economic-policy-thoughts-today-and-tomorrow)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|107|[4.4](https://www.goodreads.com/book/show/1822167.Economic_Policy)|1979|
@@ -10,7 +10,7 @@ Curated list of awesome books and authors on libertarianism, ancap and austrian 
 |[The Anatomy of the State](https://mises.org/library/anatomy-state)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|55|[4.3](https://www.goodreads.com/book/show/6613404-anatomy-of-the-state)|1974|
 |[The Fountainhead](https://en.wikipedia.org/wiki/The_Fountainhead)|[Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)|753|[3.9](https://www.goodreads.com/book/show/2122.The_Fountainhead)|1943|
 
-#Awesome Books
+## Awesome Books
 | Name | Author | N Pages | Goodreads Rating | Year Published |  
 |------|--------|---------|------------------|----------------|
 |[Human Action](https://mises.org/library/human-action-0)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|881|[4.3](https://www.goodreads.com/book/show/81912.Human_Action)|1949|
