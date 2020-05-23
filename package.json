@@ -1,0 +1,22 @@
+{
+  "name": "awesome-libertarianism",
+  "version": "1.0.0",
+  "description": "> Curated list of awesome books and authors on libertarianism,  anarcho-capitalism and austrian school of economics.",
+  "main": "index.js",
+  "scripts": {
+    "build": "markdown README.md -t 'Awesome Libertarianism' -s 'https://unpkg.com/sakura.css/css/sakura.css' > index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcodpt/awesome-libertarianism.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcodpt/awesome-libertarianism/issues"
+  },
+  "homepage": "https://github.com/marcodpt/awesome-libertarianism#readme",
+  "dependencies": {
+    "markdown-to-html": "0.0.13"
+  }
+}

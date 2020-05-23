@@ -15,7 +15,9 @@
 |------|--------|------------------|----------------|--------|
 |[Human Action](https://mises.org/library/human-action-0)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/81912.Human_Action)|1949|881|
 |[For a New Liberty](https://mises.org/library/new-liberty-libertarian-manifesto)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/1268994.For_a_New_Liberty)|1973|327|
-|[The Road to Serfdom](https://mises.org/library/road-serfdom-0)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)|1944|274|
+|[The Ethics of Liberty](https://mises.org/library/ethics-liberty)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/81983.The_Ethics_of_Liberty)|1982|336|
 |[Democracy: The God That Failed](https://mises.org/library/democracy-god-failed-1)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.2](https://www.goodreads.com/book/show/980031.Democracy)|2001|304|
+|[The Road to Serfdom](https://mises.org/library/road-serfdom-0)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)|1944|274|
+|[Economic Science and the Austrian Method](https://mises.org/library/economic-science-and-austrian-method)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.0](https://www.goodreads.com/book/show/168856.Economic_Science_and_the_Austrian_Method)|1995|82|
 |[The Denationalization of Money](https://mises.org/library/denationalisation-money-argument-refined)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/2833576-denationalisation-of-money)|1976|133|
 |[Individualism and Economic Order](https://mises.org/library/individualism-and-economic-order)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/75835.Individualism_and_Economic_Order)|1948|271|
