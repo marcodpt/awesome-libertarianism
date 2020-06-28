@@ -2,7 +2,7 @@
 
 > Curated list of awesome books and authors on libertarianism,  anarcho-capitalism and austrian school of economics.
 
-## Books list
+## Awesome Books
 | Name | Author | Goodreads Rating | Year Published | #Pages |
 |------|--------|------------------|----------------|--------|
 |[Economic Policy, Thoughts for Today and Tomorrow](https://mises.org/library/economic-policy-thoughts-today-and-tomorrow)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.4](https://www.goodreads.com/book/show/1822167.Economic_Policy)|1979|107|
@@ -10,10 +10,6 @@
 |[The Anatomy of the State](https://mises.org/library/anatomy-state)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/6613404-anatomy-of-the-state)|1974|55|
 |[The origin of money](https://mises.org/library/origins-money-0)|[Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)|[4.0](https://www.goodreads.com/book/show/8048252-the-origins-of-money)|1892|52|
 |[The Fountainhead](https://en.wikipedia.org/wiki/The_Fountainhead)|[Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)|[3.9](https://www.goodreads.com/book/show/2122.The_Fountainhead)|1943|753|
-
-## Awesome Books
-| Name | Author | Goodreads Rating | Year Published | #Pages |
-|------|--------|------------------|----------------|--------|
 |[Human Action](https://mises.org/library/human-action-0)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/81912.Human_Action)|1949|881|
 |[For a New Liberty](https://mises.org/library/new-liberty-libertarian-manifesto)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/1268994.For_a_New_Liberty)|1973|327|
 |[A Theory of Socialism and Capitalism](https://mises.org/library/theory-socialism-and-capitalism-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/168857.A_Theory_of_Socialism_and_Capitalism)|1988|262|
