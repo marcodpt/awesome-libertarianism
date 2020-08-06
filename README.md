@@ -13,6 +13,7 @@
 |[No Treason: The Constitution of No Authority](https://mises.org/library/no-treason-constitution-no-authority-audio)|[Lysander Spooner](https://en.wikipedia.org/wiki/Lysander_Spooner)|[4.4](https://www.goodreads.com/book/show/2090559.No_Treason)|1867|94|
 |[The Fountainhead](https://en.wikipedia.org/wiki/The_Fountainhead)|[Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)|[3.9](https://www.goodreads.com/book/show/2122.The_Fountainhead)|1943|753|
 |[Human Action](https://mises.org/library/human-action-0)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/81912.Human_Action)|1949|881|
+|[Principles of Economics](https://mises.org/library/principles-economics)|[Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)|[4.3](https://www.goodreads.com/book/show/746104.Principles_of_Economics)|1871|285|
 |[For a New Liberty](https://mises.org/library/new-liberty-libertarian-manifesto)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/1268994.For_a_New_Liberty)|1973|327|
 |[A Theory of Socialism and Capitalism](https://mises.org/library/theory-socialism-and-capitalism-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/168857.A_Theory_of_Socialism_and_Capitalism)|1988|262|
 |[The Ethics of Liberty](https://mises.org/library/ethics-liberty)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/81983.The_Ethics_of_Liberty)|1982|336|
@@ -74,6 +75,13 @@ contact with liberal ideas or for someone who just want to enjoy a good novel.
 This book is a masterclass in capitalism. Mises introduces praxeology and then
 use it in all economics. It is the most influential book in austrian school
 of economics and a must read if you are interested in this ideas.
+
+### [Principles of Economics](https://mises.org/library/principles-economics)
+[Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) 1871
+This book is considered the begining of Austrian School of Economics. It
+introduces very important concepts that the great majority if not all authors 
+will follow. The book presents his pioneer work in theory of value the so
+called marginal utility.
 
 ### [For a New Liberty](https://mises.org/library/new-liberty-libertarian-manifesto)
 [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard) 1973
