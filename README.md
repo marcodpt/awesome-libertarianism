@@ -87,8 +87,8 @@ of economics and a must read if you are interested in this ideas.
 
 ### [Principles of Economics](https://mises.org/library/principles-economics)
 [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) 1871
-This book is considered the begining of Austrian School of Economics. It
 
+This book is considered the begining of Austrian School of Economics. It
 introduces very important concepts that the great majority if not all authors 
 will follow. The book presents his pioneer work in theory of value the so
 called marginal utility.
@@ -110,8 +110,8 @@ socialism. Everything else can be explained as a combination of these ideas.
 
 This book is a complete analisys of socialism, where mises presents his famous
 argument about the impossibility of economic calculation under socialism. It
-contains a lot of historical information, some etical considerations, and an 
-amazing defense of privaty property and capitalism.
+contains a lot of historical information, some ethical considerations, and an 
+amazing defense of private property and capitalism.
 
 ### [The Ethics of Liberty](https://mises.org/library/ethics-liberty)
 [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard) 1982
