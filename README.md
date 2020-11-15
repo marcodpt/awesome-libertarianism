@@ -19,12 +19,18 @@
 |[Socialism: An Economic and Sociological Analysis](https://mises.org/library/socialism-economic-and-sociological-analysis)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/154244.Socialism)|1922|589|
 |[The Ethics of Liberty](https://mises.org/library/ethics-liberty)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/81983.The_Ethics_of_Liberty)|1982|336|
 |[Democracy: The God That Failed](https://mises.org/library/democracy-god-failed-1)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.2](https://www.goodreads.com/book/show/980031.Democracy)|2001|304|
+|[Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)|[Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner)|[4.2](https://www.goodreads.com/book/show/1084282.Competition_and_Entrepreneurship)|1978|256|
 |[The Road to Serfdom](https://mises.org/library/road-serfdom-0)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)|1944|274|
 |[Economic Science and the Austrian Method](https://mises.org/library/economic-science-and-austrian-method)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.0](https://www.goodreads.com/book/show/168856.Economic_Science_and_the_Austrian_Method)|1995|82|
 |[The Austrian Theory of the Trade Cycle and Other Essays](https://mises.org/library/austrian-theory-trade-cycle-and-other-essays)|[Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), [Haberler](https://en.wikipedia.org/wiki/Gottfried_Haberler), [Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), [Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/81985.The_Austrian_Theory_of_the_Trade_Cycle_and_Other_Essays)|1978|125|
 |[Individualism and Economic Order](https://mises.org/library/individualism-and-economic-order)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/75835.Individualism_and_Economic_Order)|1948|271|
 |[The Denationalization of Money](https://mises.org/library/denationalisation-money-argument-refined)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/2833576-denationalisation-of-money)|1976|133|
 |[The Most Dangerous Superstition](https://www.youtube.com/watch?v=N6uVV2Dcqt0)|[Larken Rose](https://twitter.com/larken_rose)|[4.4](https://www.goodreads.com/book/show/10836816-the-most-dangerous-superstition)|2011|212|
+|[Against Intellectual Property](https://mises.org/library/against-intellectual-property-0)|[Stephan Kinsella](https://en.wikipedia.org/wiki/Stephan_Kinsella)|[3.9](https://www.goodreads.com/book/show/4279856-against-intellectual-property)|2008|73|
+|[Praxeology and Understanding: An Analysis of the Controversy in Austrian Economics](https://mises.org/library/praxeology-and-understanding-analysis-controversy-austrian-economics-0)|[George Selgin](https://en.wikipedia.org/wiki/George_Selgin)|[3.6](https://www.goodreads.com/book/show/3799401-praxeology-understanding)|1990|80|
+|[Capital and Interest](https://mises.org/library/capital-and-interest)|[Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk)|[4.0](https://www.goodreads.com/book/show/7421509-capital-and-interest)|1890|538|
+
+
 
 ## Personal reviews
 
@@ -125,6 +131,13 @@ economics ideas. Rothbard created the anarcho capitalism.
 This book is a desconstruction in the believe that democracy and majority
 opinion is an optimal or ethical system.
 
+### [Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)
+[Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner), 1978
+
+This book is an analysis of the role of the enterpreuner in equilibrating the  
+market, it brings elements of mises views in praxeology and hayeks views on
+descentralized knowledge and spontaneous order.
+
 ### [The Road to Serfdom](https://mises.org/library/road-serfdom-0)
 [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek), 1944
 
@@ -170,3 +183,25 @@ respect to political authority. It is a very easy reading not too rigorous,
 very good for general public. The author fully understood libertarian ethics
 and created a very accessible book that will try to shock the reader from the
 very beginning to the end.
+
+### [Against Intellectual Property](https://mises.org/library/against-intellectual-property-0)
+[Stephan Kinsella](https://en.wikipedia.org/wiki/Stephan_Kinsella), 2008
+
+This book presents a discussion on ethical grounds on the legitimacy of
+intellectual property, in doing this he presents a revised discussion on some
+popular rothbard's ideas
+
+### [Praxeology and Understanding: An Analysis of the Controversy in Austrian Economics](https://mises.org/library/praxeology-and-understanding-analysis-controversy-austrian-economics-0)
+[George Selgin](https://en.wikipedia.org/wiki/George_Selgin), 1990
+
+A great analysis on lachman, kizner debate of market equilibrium, where he
+improve on kizner's arguments and construct a case against kaleidic future 
+defended by lachman
+
+### [Capital and Interest](https://mises.org/library/capital-and-interest)
+[Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk), 1890
+
+This book brings the history of economic theories and politics behind interest.
+It is a great exposition of the most populars ideas on interest, it presents
+great refutations on then and prepare the reader for his next book where he
+introduces his time preference theory.
