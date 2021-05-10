@@ -17,20 +17,21 @@
 |[For a New Liberty](https://mises.org/library/new-liberty-libertarian-manifesto)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/1268994.For_a_New_Liberty)|1973|327|
 |[A Theory of Socialism and Capitalism](https://mises.org/library/theory-socialism-and-capitalism-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/168857.A_Theory_of_Socialism_and_Capitalism)|1988|262|
 |[Socialism: An Economic and Sociological Analysis](https://mises.org/library/socialism-economic-and-sociological-analysis)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/154244.Socialism)|1922|589|
+|[The Economics and Ethics of Private Property](https://mises.org/library/economics-and-ethics-private-property-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/2562710.The_Economics_and_Ethics_of_Private_Property)|1993|446|
 |[The Ethics of Liberty](https://mises.org/library/ethics-liberty)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/81983.The_Ethics_of_Liberty)|1982|336|
 |[Democracy: The God That Failed](https://mises.org/library/democracy-god-failed-1)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.2](https://www.goodreads.com/book/show/980031.Democracy)|2001|304|
+|[The Theory of Money and Credit](https://mises.org/library/theory-money-and-credit)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.2](https://www.goodreads.com/book/show/154246.The_Theory_of_Money_and_Credit)|1912|505|
 |[Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)|[Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner)|[4.2](https://www.goodreads.com/book/show/1084282.Competition_and_Entrepreneurship)|1978|256|
 |[The Road to Serfdom](https://mises.org/library/road-serfdom-0)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)|1944|274|
 |[Economic Science and the Austrian Method](https://mises.org/library/economic-science-and-austrian-method)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.0](https://www.goodreads.com/book/show/168856.Economic_Science_and_the_Austrian_Method)|1995|82|
 |[The Austrian Theory of the Trade Cycle and Other Essays](https://mises.org/library/austrian-theory-trade-cycle-and-other-essays)|[Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), [Haberler](https://en.wikipedia.org/wiki/Gottfried_Haberler), [Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), [Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/81985.The_Austrian_Theory_of_the_Trade_Cycle_and_Other_Essays)|1978|125|
 |[Individualism and Economic Order](https://mises.org/library/individualism-and-economic-order)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/75835.Individualism_and_Economic_Order)|1948|271|
 |[The Denationalization of Money](https://mises.org/library/denationalisation-money-argument-refined)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/2833576-denationalisation-of-money)|1976|133|
+|[An Agorist Primer](https://www.amazon.com.br/Agorist-Primer-Samuel-Edward-Konkin/dp/0977764974)|[Samuel Edward Konkin III](https://en.wikipedia.org/wiki/Samuel_Edward_Konkin_III)|[4.1](https://www.goodreads.com/book/show/6057120-an-agorist-primer)|1986|112|
 |[The Most Dangerous Superstition](https://www.youtube.com/watch?v=N6uVV2Dcqt0)|[Larken Rose](https://twitter.com/larken_rose)|[4.4](https://www.goodreads.com/book/show/10836816-the-most-dangerous-superstition)|2011|212|
 |[Against Intellectual Property](https://mises.org/library/against-intellectual-property-0)|[Stephan Kinsella](https://en.wikipedia.org/wiki/Stephan_Kinsella)|[3.9](https://www.goodreads.com/book/show/4279856-against-intellectual-property)|2008|73|
 |[Praxeology and Understanding: An Analysis of the Controversy in Austrian Economics](https://mises.org/library/praxeology-and-understanding-analysis-controversy-austrian-economics-0)|[George Selgin](https://en.wikipedia.org/wiki/George_Selgin)|[3.6](https://www.goodreads.com/book/show/3799401-praxeology-understanding)|1990|80|
 |[Capital and Interest](https://mises.org/library/capital-and-interest)|[Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk)|[4.0](https://www.goodreads.com/book/show/7421509-capital-and-interest)|1890|538|
-
-
 
 ## Personal reviews
 
@@ -119,6 +120,11 @@ argument about the impossibility of economic calculation under socialism. It
 contains a lot of historical information, some ethical considerations, and an 
 amazing defense of private property and capitalism.
 
+### [The Economics and Ethics of Private Property](https://mises.org/library/economics-and-ethics-private-property-0)
+[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 1993
+
+Is a collection of essays that gives the reader a general view on the author economics views, discuss about ethics, praxeology and economics.
+
 ### [The Ethics of Liberty](https://mises.org/library/ethics-liberty)
 [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), 1982
 
@@ -130,6 +136,11 @@ economics ideas. Rothbard created the anarcho capitalism.
 
 This book is a desconstruction in the believe that democracy and majority
 opinion is an optimal or ethical system.
+
+### [The Theory of Money and Credit](https://mises.org/library/theory-money-and-credit)
+[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), 1912 
+
+A work that form the foundation of the Austrian Theory of business cycle. The original approach on credit expansion and the lengthening of productive chain became the signature of Austrian economists
 
 ### [Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)
 [Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner), 1978
@@ -174,6 +185,11 @@ interested in a criative view of market process.
 This book presents ideas about free banking, private money and how to implement
 it in a world with central bank. Many ideas presented in this book are now seen
 in tech communities.
+
+### [An Agorist Primer](https://www.amazon.com.br/Agorist-Primer-Samuel-Edward-Konkin/dp/0977764974)
+[Samuel Edward Konkin III](https://en.wikipedia.org/wiki/Samuel_Edward_Konkin_III), 1986 
+
+One of the few pratical libertarian books, in this book Konkin introduces the Agorism. A life philosophy which is compatible with libertarian principles. 
 
 ### [The Most Dangerous Superstition](https://www.youtube.com/watch?v=N6uVV2Dcqt0)
 [Larken Rose](https://twitter.com/larken_rose), 2011
