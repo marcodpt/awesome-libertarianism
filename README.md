@@ -8,6 +8,7 @@
 |[Economic Policy, Thoughts for Today and Tomorrow](https://mises.org/library/economic-policy-thoughts-today-and-tomorrow)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.4](https://www.goodreads.com/book/show/1822167.Economic_Policy)|1979|107|
 |[The Law](https://mises.org/library/law)|[Frédéric Bastiat](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat)|[4.4](https://www.goodreads.com/book/show/1609224.The_Law)|1849|61|
 |[The Anatomy of the State](https://mises.org/library/anatomy-state)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/6613404-anatomy-of-the-state)|1974|55|
+|[What Has Government Done to Our Money?](https://mises.org/library/what-has-government-done-our-money)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/42621506-what-has-government-done-to-our-money)|1963|112|
 |[The origin of money](https://mises.org/library/origins-money-0)|[Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)|[4.0](https://www.goodreads.com/book/show/8048252-the-origins-of-money)|1892|52|
 |[The Production of Security](https://mises.org/library/production-security-0)|[Gustave de Molinari](https://en.wikipedia.org/wiki/Gustave_de_Molinari)|[4.0](https://www.goodreads.com/book/show/7090716-the-production-of-security)|1849|62|
 |[No Treason: The Constitution of No Authority](https://mises.org/library/no-treason-constitution-no-authority-audio)|[Lysander Spooner](https://en.wikipedia.org/wiki/Lysander_Spooner)|[4.4](https://www.goodreads.com/book/show/2090559.No_Treason)|1867|94|
@@ -20,9 +21,11 @@
 |[Socialism: An Economic and Sociological Analysis](https://mises.org/library/socialism-economic-and-sociological-analysis)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/154244.Socialism)|1922|589|
 |[Theory and History](https://mises.org/library/theory-and-history-interpretation-social-and-economic-evolution)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/2714609-theory-and-history)|1957|379|
 |[The Economics and Ethics of Private Property](https://mises.org/library/economics-and-ethics-private-property-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/2562710.The_Economics_and_Ethics_of_Private_Property)|1993|446|
+|[The Ethics of Money Production](https://mises.org/library/ethics-money-production)|[Jörg Guido Hülsmann](https://en.wikipedia.org/wiki/J%C3%B6rg_Guido_H%C3%BClsmann)|[4.3](https://www.goodreads.com/book/show/6520108-the-ethics-of-money-production)|2008|242|
 |[The Ethics of Liberty](https://mises.org/library/ethics-liberty)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/81983.The_Ethics_of_Liberty)|1982|336|
 |[Democracy: The God That Failed](https://mises.org/library/democracy-god-failed-1)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.2](https://www.goodreads.com/book/show/980031.Democracy)|2001|304|
 |[The Theory of Money and Credit](https://mises.org/library/theory-money-and-credit)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.2](https://www.goodreads.com/book/show/154246.The_Theory_of_Money_and_Credit)|1912|505|
+|[The Mystery of Banking](https://mises.org/library/mystery-banking)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/154253.The_Mystery_of_Banking)|1983|291|
 |[Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)|[Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner)|[4.2](https://www.goodreads.com/book/show/1084282.Competition_and_Entrepreneurship)|1978|256|
 |[The Road to Serfdom](https://mises.org/library/road-serfdom-0)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)|1944|274|
 |[Economic Science and the Austrian Method](https://mises.org/library/economic-science-and-austrian-method)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.0](https://www.goodreads.com/book/show/168856.Economic_Science_and_the_Austrian_Method)|1995|82|
@@ -35,6 +38,7 @@
 |[Against Intellectual Property](https://mises.org/library/against-intellectual-property-0)|[Stephan Kinsella](https://en.wikipedia.org/wiki/Stephan_Kinsella)|[3.9](https://www.goodreads.com/book/show/4279856-against-intellectual-property)|2008|73|
 |[Praxeology and Understanding: An Analysis of the Controversy in Austrian Economics](https://mises.org/library/praxeology-and-understanding-analysis-controversy-austrian-economics-0)|[George Selgin](https://en.wikipedia.org/wiki/George_Selgin)|[3.6](https://www.goodreads.com/book/show/3799401-praxeology-understanding)|1990|80|
 |[Capital and Interest](https://mises.org/library/capital-and-interest)|[Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk)|[4.0](https://www.goodreads.com/book/show/7421509-capital-and-interest)|1890|538|
+|[The Machinery of Freedom](http://www.daviddfriedman.com/Libertarian/Machinery_of_Freedom/MofF_Contents.html)|[David Friedman](https://en.wikipedia.org/wiki/David_D._Friedman)|[4.1](https://www.goodreads.com/book/show/112849.The_Machinery_of_Freedom)|1971|122|
 
 ## Personal reviews
 
@@ -59,6 +63,13 @@ legislation from a liberal perspective.
 This is an excelent simple book to desconstruct the aurea of state and start to
 think objectively about it necessity. A good start point to anarcho capitalism
 ideas.
+
+### [What Has Government Done to Our Money?](https://mises.org/library/what-has-government-done-our-money)
+[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), 1963
+
+An easy-to-read book that discusses the role of money in society, the banking
+system with its regulatory aspects, and the implications of the Keynesian
+economy in society.
 
 ### [The origin of money](https://mises.org/library/origins-money-0)
 [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger), 1892
@@ -145,6 +156,12 @@ the praxeology.
 
 Is a collection of essays that gives the reader a general view on the author economics views, discuss about ethics, praxeology and economics.
 
+### [The Ethics of Money Production](https://mises.org/library/ethics-money-production)
+[Jörg Guido Hülsmann](https://en.wikipedia.org/wiki/J%C3%B6rg_Guido_H%C3%BClsmann), 2008
+
+An ethical discution about the central bank influence in economy, and how it
+affect temporal prefence of the hole society.
+
 ### [The Ethics of Liberty](https://mises.org/library/ethics-liberty)
 [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), 1982
 
@@ -161,6 +178,12 @@ opinion is an optimal or ethical system.
 [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), 1912 
 
 A work that form the foundation of the Austrian Theory of business cycle. The original approach on credit expansion and the lengthening of productive chain became the signature of Austrian economists
+
+### [The Mystery of Banking](https://mises.org/library/mystery-banking)
+[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), 1983
+
+A more complete discussion about banking system that explain in depth how it
+works, the incentives involved, and the consequences to society.
 
 ### [Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)
 [Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner), 1978
@@ -248,3 +271,9 @@ This book brings the history of economic theories and politics behind interest.
 It is a great exposition of the most populars ideas on interest, it presents
 great refutations on then and prepare the reader for his next book where he
 introduces his time preference theory.
+
+### [The Machinery of Freedom](http://www.daviddfriedman.com/Libertarian/Machinery_of_Freedom/MofF_Contents.html)
+[David Friedman](https://en.wikipedia.org/wiki/David_D._Friedman), 1971
+
+A presentation of Anarcho-capitalism ideas using an utilitarian approach, which
+can be good as a first view on the topic.
