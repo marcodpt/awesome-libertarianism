@@ -315,14 +315,19 @@ it affects the time preference of the whole society.
 ### [The Ethics of Liberty](https://mises.org/library/ethics-liberty)
 [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), 1982
 
-This book is a praxeological construction of ethics. That along with Mises'
-ideas of economics, Rothbard created anarcho-capitalism.
+This book defines libertarian ethics, which involves applying the methodology
+developed by Mises (praxeology) in the field of ethics. It can be said that
+this work formally defines anarcho capitalism and the principle of
+non-aggression, in theory the only necessary book.
 
 ### [Democracy: The God That Failed](https://mises.org/library/democracy-god-failed-1)
 [Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 2001
 
-This book is a deconstruction of the belief that democracy or majority opinion
-it is an optimal or ethical system.
+This is the author's most influential book, a pioneering classic in questioning
+democracy as an optimal or ethical system. It presents the historical context
+of the flight from monarchies to democracy, and through the impossibility of
+limited government, shows the reader the alternative of a stateless society to
+freedom.
 
 ### [The Theory of Money and Credit](https://mises.org/library/theory-money-and-credit)
 [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), 1912 
