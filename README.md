@@ -20,6 +20,9 @@
 |[Human Action](https://mises.org/library/human-action-0)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/81912.Human_Action)|1949|881|
 |[Principles of Economics](https://mises.org/library/principles-economics)|[Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)|[4.3](https://www.goodreads.com/book/show/746104.Principles_of_Economics)|1871|285|
 |[For a New Liberty](https://mises.org/library/new-liberty-libertarian-manifesto)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/1268994.For_a_New_Liberty)|1973|327|
+|[The Great Fiction](https://mises.org/library/great-fiction)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.4](https://www.goodreads.com/book/show/15978654-the-great-fiction)|2012|456|
+|[An Austrian Perspective on the History of Economic Thought (vol 1 Before Adam Smith)](https://mises.org/library/austrian-perspective-history-economic-thought)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.4](https://www.goodreads.com/book/show/9038307-an-austrian-perspective-on-the-history-of-economic-thought)|1995|731|
+|[An Austrian Perspective on the History of Economic Thought (vol 2 Classical Economics)](https://mises.org/library/austrian-perspective-history-economic-thought)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.4](https://www.goodreads.com/book/show/1995190.Classical_Economics)|1995|505|
 |[A Theory of Socialism and Capitalism](https://mises.org/library/theory-socialism-and-capitalism-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/168857.A_Theory_of_Socialism_and_Capitalism)|1988|262|
 |[Money, Bank Credit, and Economic Cycles](https://mises.org/library/money-bank-credit-and-economic-cycles)|[Jesús Huerta de Soto](https://en.wikipedia.org/wiki/Jes%C3%BAs_Huerta_de_Soto)|[4.4](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles)|2006|812|
 |[Socialism: An Economic and Sociological Analysis](https://mises.org/library/socialism-economic-and-sociological-analysis)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/154244.Socialism)|1922|589|
@@ -27,15 +30,21 @@
 |[Theory and History](https://mises.org/library/theory-and-history-interpretation-social-and-economic-evolution)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/2714609-theory-and-history)|1957|379|
 |[The Economics and Ethics of Private Property](https://mises.org/library/economics-and-ethics-private-property-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/2562710.The_Economics_and_Ethics_of_Private_Property)|1993|446|
 |[Egalitarianism as a Revolt Against Nature](https://mises.org/library/egalitarianism-revolt-against-nature-and-other-essays)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.3](https://www.goodreads.com/book/show/168946.Egalitarianism_as_a_Revolt_Against_Nature_and_Other_Essays)|1974|303|
+|[Epistemological Problems of Economics](https://mises.org/library/epistemological-problems-economics)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/24631766-epistemological-problems-of-economics)|1933|246|
+|[The Enterprise of Law: Justice without the State](https://mises.org/library/enterprise-law-justice-without-state-0)|[Bruce L. Benson](https://en.wikipedia.org/wiki/Bruce_L._Benson)|[4.3](https://www.goodreads.com/pt/book/show/998023.The_Enterprise_of_Law)|1990|397|
+|[Economy, Society, and History](https://mises.org/library/economy-society-and-history-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/58652864-economy-society-and-history)|2021|210|
 |[The Ethics of Money Production](https://mises.org/library/ethics-money-production)|[Jörg Guido Hülsmann](https://en.wikipedia.org/wiki/J%C3%B6rg_Guido_H%C3%BClsmann)|[4.3](https://www.goodreads.com/book/show/6520108-the-ethics-of-money-production)|2008|242|
 |[The Ethics of Liberty](https://mises.org/library/ethics-liberty)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/81983.The_Ethics_of_Liberty)|1982|336|
 |[Democracy: The God That Failed](https://mises.org/library/democracy-god-failed-1)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.2](https://www.goodreads.com/book/show/980031.Democracy)|2001|304|
 |[The Theory of Money and Credit](https://mises.org/library/theory-money-and-credit)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.2](https://www.goodreads.com/book/show/154246.The_Theory_of_Money_and_Credit)|1912|505|
 |[The Mystery of Banking](https://mises.org/library/mystery-banking)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.2](https://www.goodreads.com/book/show/154253.The_Mystery_of_Banking)|1983|291|
+|[Getting Libertarianism Right](https://mises.org/library/getting-libertarianism-right)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.2](https://www.goodreads.com/book/show/41968667-getting-libertarianism-right)|2018|126|
 |[Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)|[Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner)|[4.2](https://www.goodreads.com/book/show/1084282.Competition_and_Entrepreneurship)|1978|256|
 |[Our Enemy, the State](https://mises.org/library/our-enemy-state-2)|[Albert Jay Nock](https://en.wikipedia.org/wiki/Albert_Jay_Nock)|[4.2](https://www.goodreads.com/book/show/84295.Our_Enemy_the_State)|1935|100|
 |[The Road to Serfdom](https://mises.org/library/road-serfdom-0)|[Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)|[4.2](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)|1944|274|
 |[The Private Production of Defense](https://mises.org/library/private-production-defense)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.1](https://www.goodreads.com/book/show/7717015-the-private-production-of-defense)|1998|51|
+|[Freedom and the Law](https://mises.org/library/freedom-and-law)|[Bruno Leoni](https://en.wikipedia.org/wiki/Bruno_Leoni)|[4.1](https://www.goodreads.com/book/show/1307521.Freedom_and_the_Law)|1961|274|
+|[From Aristocracy to Monarchy to Democracy](https://mises.org/library/aristocracy-monarchy-democracy)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.1](https://www.goodreads.com/book/show/23620172-from-aristocracy-to-monarchy-to-democracy)|2014|70|
 |[Economic Science and the Austrian Method](https://mises.org/library/economic-science-and-austrian-method)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.0](https://www.goodreads.com/book/show/168856.Economic_Science_and_the_Austrian_Method)|1995|82|
 |[Beyond Democracy](https://beyonddemocracy.net/)|[Karsten & Beckman](https://beyonddemocracy.net/authors.php)|[4.0](https://www.goodreads.com/book/show/15742545-beyond-democracy)|2012|102|
 |[The Market for Liberty](https://mises.org/library/market-liberty-1)|[Morris and Linda Tannehill](https://mises.org/profile/morris-and-linda-tannehill)|[4.0](https://www.goodreads.com/book/show/998062.The_Market_for_Liberty)|1970|169|
@@ -49,20 +58,11 @@
 |[A Short History of Man: Progress and Decline](https://mises.org/library/short-history-man-progress-and-decline)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[3.9](https://www.goodreads.com/book/show/25182012-a-short-history-of-man)|2015|132|
 |[Against Intellectual Property](https://mises.org/library/against-intellectual-property-0)|[Stephan Kinsella](https://en.wikipedia.org/wiki/Stephan_Kinsella)|[3.9](https://www.goodreads.com/book/show/4279856-against-intellectual-property)|2008|73|
 |[Defending the Undefendable](https://mises.org/library/defending-undefendable)|[Walter Block](https://en.wikipedia.org/wiki/Walter_Block)|[3.9](https://www.goodreads.com/book/show/168861.Defending_the_Undefendable)|1976|256|
+|[The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650)|[Michael Huemer](https://en.wikipedia.org/wiki/Michael_Huemer)|[4.4](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)|2012|365|
 |[Deflation and Liberty](https://mises.org/library/deflation-and-liberty-1)|[Jörg Guido Hülsmann](https://en.wikipedia.org/wiki/J%C3%B6rg_Guido_H%C3%BClsmann)|[3.6](https://www.goodreads.com/book/show/7544624-deflation-and-liberty)|2008|44|
 |[Praxeology and Understanding: An Analysis of the Controversy in Austrian Economics](https://mises.org/library/praxeology-and-understanding-analysis-controversy-austrian-economics-0)|[George Selgin](https://en.wikipedia.org/wiki/George_Selgin)|[3.6](https://www.goodreads.com/book/show/3799401-praxeology-understanding)|1990|80|
 |[Capital and Interest](https://mises.org/library/capital-and-interest)|[Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk)|[4.0](https://www.goodreads.com/book/show/7421509-capital-and-interest)|1890|538|
 |[The Machinery of Freedom](http://www.daviddfriedman.com/Libertarian/Machinery_of_Freedom/MofF_Contents.html)|[David Friedman](https://en.wikipedia.org/wiki/David_D._Friedman)|[4.1](https://www.goodreads.com/book/show/112849.The_Machinery_of_Freedom)|1971|122|
-|[Epistemological Problems of Economics](https://mises.org/library/epistemological-problems-economics)|[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises)|[4.3](https://www.goodreads.com/book/show/24631766-epistemological-problems-of-economics)|1933|246|
-|[The Great Fiction](https://mises.org/library/great-fiction)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.4](https://www.goodreads.com/book/show/15978654-the-great-fiction)|2012|456|
-|[From Aristocracy to Monarchy to Democracy](https://mises.org/library/aristocracy-monarchy-democracy)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.1](https://www.goodreads.com/book/show/23620172-from-aristocracy-to-monarchy-to-democracy)|2014|70|
-|[Economy, Society, and History](https://mises.org/library/economy-society-and-history-0)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.3](https://www.goodreads.com/book/show/58652864-economy-society-and-history)|2021|210|
-|[Getting Libertarianism Right](https://mises.org/library/getting-libertarianism-right)|[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe)|[4.2](https://www.goodreads.com/book/show/41968667-getting-libertarianism-right)|2018|126|
-|[An Austrian Perspective on the History of Economic Thought (vol 1 Before Adam Smith)](https://mises.org/library/austrian-perspective-history-economic-thought)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.4](https://www.goodreads.com/book/show/9038307-an-austrian-perspective-on-the-history-of-economic-thought)|1995|731|
-|[An Austrian Perspective on the History of Economic Thought (vol 2 Classical Economics)](https://mises.org/library/austrian-perspective-history-economic-thought)|[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)|[4.4](https://www.goodreads.com/book/show/1995190.Classical_Economics)|1995|505|
-|[The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650)|[Michael Huemer](https://en.wikipedia.org/wiki/Michael_Huemer)|[4.4](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)|2012|365|
-|[Freedom and the Law](https://mises.org/library/freedom-and-law)|[Bruno Leoni](https://en.wikipedia.org/wiki/Bruno_Leoni)|[4.1](https://www.goodreads.com/book/show/1307521.Freedom_and_the_Law)|1961|274|
-|[The Enterprise of Law: Justice without the State](https://mises.org/library/enterprise-law-justice-without-state-0)|[Bruce L. Benson](https://en.wikipedia.org/wiki/Bruce_L._Benson)|[4.3](https://www.goodreads.com/pt/book/show/998023.The_Enterprise_of_Law)|1990|397|
 
 ## Personal reviews
 
@@ -180,6 +180,34 @@ marginal utility.
 This book is a good introduction and starting point to anarcho-capitalist ideas
 by its creator in simple terms with real-world examples.
 
+### [The Great Fiction](https://mises.org/library/great-fiction)
+[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 2012
+
+A collection of selected articles on varied topics that covers much of the
+author's thought, gives a broad view of various aspects of libertarianism,
+such as the evolution of primitive man, life in society, state intervention in
+the economy and questioning of state monopolies, up to autobiographical
+articles.
+
+### [An Austrian Perspective on the History of Economic Thought (vol 1 Before Adam Smith)](https://mises.org/library/austrian-perspective-history-economic-thought)
+[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), 1995
+
+Analyzes the history of economic thought before Adam Smith with an emphasis on
+a comparison with the current vision of the Austrian school of economics,
+studying Chinese philosophy, the Greeks, the scholastics, the mercantilists,
+as well as names such as Richard Cantillon, John Locke, Turgot and a lucid
+review of what Adam Smith really represented.
+
+### [An Austrian Perspective on the History of Economic Thought (vol 2 Classical Economics)](https://mises.org/library/austrian-perspective-history-economic-thought)
+[Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard), 1995
+
+In the second volume of this review of the history of economic thought, the
+focus is on the economists who came after Adam Smith, such as the French
+liberals J.B. Say, Frederic Bastiat and Gustave de Molinari, the utilitarian
+Jeremy Bentham, David Ricardo, John Stuart Mill and his son James Mill, as well
+as a detailed analysis of the origins of Marxism and personalities such as
+Karl Marx and Friedrich Engels.
+
 ### [A Theory of Socialism and Capitalism](https://mises.org/library/theory-socialism-and-capitalism-0)
 [Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 1988
 
@@ -239,6 +267,30 @@ policies in war, over private property, women's and children's rights, rival
 ideologies and ideas to anarcho-capitalism and forms of action and posture
 by libertarians.
 
+### [Epistemological Problems of Economics](https://mises.org/library/epistemological-problems-economics)
+[Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises), 1933
+
+The methodology of economic science is discussed with an emphasis on value
+theory and a defense of rationalism, analysis of the foundations of sociology
+and current doctrines in the work of historians and applies a consistent
+analysis refuting socialist alternatives in these topics.
+
+### [The Enterprise of Law: Justice without the State](https://mises.org/library/enterprise-law-justice-without-state-0)
+[Bruce L. Benson](https://en.wikipedia.org/wiki/Bruce_L._Benson), 1990
+
+Arguments in favor of privatizing the legal system are presented, combined with
+historical examples and a theoretical discussion of the difficulties and
+possible ways to achieve the objective. A very complete book that aims to
+eliminate any doubt about the efficiency and superiority of the private sector
+in providing security and justice.
+
+### [Economy, Society, and History](https://mises.org/library/economy-society-and-history-0)
+[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 2021
+
+Discusses the evolution of society from the primitive human collector, the role
+of the division of labor, technology and the market in social development, the
+social origins of the modern state and strategies for freedom.
+
 ### [The Ethics of Money Production](https://mises.org/library/ethics-money-production)
 [Jörg Guido Hülsmann](https://en.wikipedia.org/wiki/J%C3%B6rg_Guido_H%C3%BClsmann), 2008
 
@@ -270,6 +322,14 @@ become the signature of Austrian economists.
 A very thorough discussion of banking that explains in depth how it works, the
 incentives involved, and the consequences for society.
 
+### [Getting Libertarianism Right](https://mises.org/library/getting-libertarianism-right)
+[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 2018
+
+It develops the argument that conservative moral values combined with the
+Austrian school's understanding of economics is the correct path to
+libertarian moviment. An introduction to right-wing libertarianism or
+paleolibertarianism.
+
 ### [Competition and Entrepreneurship](https://www.amazon.com/Competition-Entrepreneurship-Israel-M-Kirzner/dp/0226437760)
 [Israel Kirzner](https://en.wikipedia.org/wiki/Israel_Kirzner), 1978
 
@@ -299,6 +359,24 @@ It discusses central themes such as the importance of influencing public
 opinion, the role of private security agencies and insurance companies in the
 provision of services of security, discrimination as a form of defense and
 the efficiency of services provided by the market.
+
+### [Freedom and the Law](https://mises.org/library/freedom-and-law)
+[Bruno Leoni](https://en.wikipedia.org/wiki/Bruno_Leoni), 1961
+
+A study on the differences between laws obtained through market practices and
+laws obtained through state imposition, with historical analyzes and
+discussions of the implications for freedom and preservation of property
+rights, a classic that has an extremely simple and clear presentation of the
+legal system and its implications for the individual.
+
+### [From Aristocracy to Monarchy to Democracy](https://mises.org/library/aristocracy-monarchy-democracy)
+[Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 2014
+
+This essay analyzes the evolution of medieval society, the transition to
+monarchy and finally to the modern state and democracy, addresses the topic
+from a historical point of view and the transition of the legal system, it can
+be seen as a condensed text in relation to the classic same author
+Democracy: The God That Failed.
 
 ### [Economic Science and the Austrian Method](https://mises.org/library/economic-science-and-austrian-method)
 [Hans-Hermann Hoppe](https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe), 1995
@@ -407,6 +485,13 @@ A book dedicated to the defense of professions with a bad reputation but which
 essentially exist to meet the existing demand in society, the author presents
 economic arguments and a coherent defense of individual freedom throughout the
 examples.
+
+### [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650)
+[Michael Huemer](https://en.wikipedia.org/wiki/Michael_Huemer), 2012
+
+A commonsense analysis of what is morally acceptable to an individual and how
+political authority violates obvious and reasonable principles in human
+interaction.
 
 ### [Deflation and Liberty](https://mises.org/library/deflation-and-liberty-1)
 [Jörg Guido Hülsmann](https://en.wikipedia.org/wiki/J%C3%B6rg_Guido_H%C3%BClsmann), 2008
