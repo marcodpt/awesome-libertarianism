@@ -63,7 +63,6 @@
 |[Praxeology and Understanding: An Analysis of the Controversy in Austrian Economics](https://mises.org/library/praxeology-and-understanding-analysis-controversy-austrian-economics-0)|[George Selgin](https://en.wikipedia.org/wiki/George_Selgin)|[3.6](https://www.goodreads.com/book/show/3799401-praxeology-understanding)|1990|80|
 |[Capital and Interest](https://mises.org/library/capital-and-interest)|[Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk)|[4.0](https://www.goodreads.com/book/show/7421509-capital-and-interest)|1890|538|
 |[The Machinery of Freedom](http://www.daviddfriedman.com/Libertarian/Machinery_of_Freedom/MofF_Contents.html)|[David Friedman](https://en.wikipedia.org/wiki/David_D._Friedman)|[4.1](https://www.goodreads.com/book/show/112849.The_Machinery_of_Freedom)|1971|122|
-
 |[Economics in One Lesson](https://mises.org/library/economics-one-lesson)|[Henry Hazlitt](https://en.wikipedia.org/wiki/Henry_Hazlitt)|[4.2](https://www.goodreads.com/it/book/show/3028.Economics_in_One_Lesson)|1946|218|
 |[The Positive Theory of Capital](https://mises.org/library/positive-theory-capital)|[Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk)|[4.1](https://www.goodreads.com/book/show/5280518-the-positive-theory-of-capital)|1891|452|
 |[Anarchy, State, and Utopia](https://www.amazon.com.br/Anarchy-State-Utopia-Thomas-Nagel/dp/0465051006)|[Robert Nozick](https://pt.wikipedia.org/wiki/Robert_Nozick)|[3.8](https://www.goodreads.com/sv/book/show/479572)|1974|367|
