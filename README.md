@@ -540,3 +540,8 @@ introduces his time preference theory.
 
 A presentation of Anarcho-capitalism ideas using an utilitarian approach, which
 can be good as a first view on the topic.
+
+## Related projects
+- [Austrolibertario/awesome](https://github.com/austrolibertario/awesome): A curated list of awesome libertarian in ptbr.
+- [Deborapolesel/Projetos-Libertarios-sobre-Impostos](https://github.com/deborapolesel/Projetos-Libertarios-sobre-Impostos): website intro about libertarianism in ptbr.
+- [NichDemos/Libertarianism](https://github.com/nichdemos/libertarianism): Site about technology giving people freedom, free, open, public software technologies. Based on: [deborapolesel/Projetos-Libertarios-sobre-Impostos](https://github.com/deborapolesel/Projetos-Libertarios-sobre-Impostos) in ptbr
